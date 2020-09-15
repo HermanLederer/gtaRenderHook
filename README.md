@@ -1,7 +1,13 @@
-# GTA rendering hook
+# Renderhook - The HL fork
 GTA SA rendering hook
 Implements DirectX11 rendering API to GTA San Andreas(possible to GTA VC and GTA 3 someday) as well as totally new rendering pipeline.
 We have discord server(https://discord.gg/rsZEUNW), come and help to improve it!
+## What's different in this fork
+In this fork I attempt to implement post processing effects that have to be done at various stages of rendering before the final imeage is passed to the screen.
+As of right now we have to rely on ReSahde to get these effects which leads to visual artifacts and in case of light scattering (aka bloom) horrendous quality.
+These are the effects that I am planning to implement:
+1) Light scattering (bloom)
+2) Ambient occlusion
 ## Current requirements to build development source code
 1) Windows 7+ with Visual Studio Community 2017
 2) DK22Pac's Plugin SDK repository(https://github.com/DK22Pac/plugin-sdk)
