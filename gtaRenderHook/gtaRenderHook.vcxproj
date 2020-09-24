@@ -102,7 +102,7 @@
     <EnableCppCoreCheck>false</EnableCppCoreCheck>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_III|Win32'">
-    <OutDir>D:\Program Files (x86)\Rockstar Games\Grand Theft Auto III</OutDir>
+    <OutDir>..\..\..\OneDrive\OneDesktop\RenderhookHL</OutDir>
     <TargetExt>.asi</TargetExt>
     <ExecutablePath>$(ExecutablePath)</ExecutablePath>
     <IncludePath>$(ANT_TWEAKBAR)\include;$(PLUGIN_SDK_DIR)\shared;$(PLUGIN_SDK_DIR)\plugin_iii\;$(TINY_XML)\..\;$(PLUGIN_SDK_DIR)\plugin_sa\;$(IncludePath)</IncludePath>

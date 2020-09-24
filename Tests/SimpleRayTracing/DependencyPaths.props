@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <RH_ENGINE>C:\Users\peter\Documents\Visual Studio 2015\Projects\gtaRenderHook\RHEngineLib</RH_ENGINE>
+    <RH_ENGINE>C:\Users\mined\Documents\RenderhookHL\RHEngineLib</RH_ENGINE>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup />

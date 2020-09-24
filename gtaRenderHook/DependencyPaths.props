@@ -2,8 +2,8 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <ANT_TWEAKBAR>D:\AntTweakBar_116\AntTweakBar</ANT_TWEAKBAR>
-    <TINY_XML>D:\tinyxml2-master\tinyxml2</TINY_XML>
+    <ANT_TWEAKBAR>C:\Users\mined\OneDrive\OneDesktop\AntTweakBar</ANT_TWEAKBAR>
+    <TINY_XML>C:\Users\mined\OneDrive\OneDesktop\tinyxml2-8.0.0\tinyxml2</TINY_XML>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup />
